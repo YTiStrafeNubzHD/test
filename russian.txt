@@ -1,11 +1,11 @@
-dssdsd﻿{Please don't hand-edit these files.}
+jhg
 {This file was generated with RageErrorCodeManager.}
 
 [ERR_ANI_POOL_1]
 {Game memory error. Please reboot and restart the game.}
 Ошибка при обращении к памяти. Перезагрузите систему и запустите игру заново.
 
-[ERR_ANI_POOL_2]
+[ERR_ANI_POOL_2]ghjghjghjgh
 {Game memory error. Please reboot and restart the game.}
 Ошибка при обращении к памяти. Перезагрузите систему и запустите игру заново.
 
