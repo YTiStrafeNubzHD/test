@@ -1,4 +1,4 @@
-﻿{Please don't hand-edit these files.}
+dssdsd﻿{Please don't hand-edit these files.}
 {This file was generated with RageErrorCodeManager.}
 
 [ERR_ANI_POOL_1]
